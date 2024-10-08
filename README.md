@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditi Chaudhary
-- 👀 I’m interested in doing Frontend Web Development Projects
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aditi.ch06@gmail.com
