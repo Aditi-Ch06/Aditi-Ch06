@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditi Chaudhary
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Web Development and Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aditi.ch06@gmail.com
 - 😄 Pronouns: Her
