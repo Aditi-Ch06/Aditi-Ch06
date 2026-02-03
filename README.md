@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Aditi Chaudhary
 ## 🧠 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/techie_aditi?theme=dark&ext=activity)
-- 👀 I’m interested in Data Science, AIML
-- 🌱 I’m currently learning DSA and Data Science/AIML
+- 👀 I’m interested in Web Development, Data Science, AIML
+- 🌱 I’m currently learning Web Development, DSA and Data Science/AIML
 - 📫 How to reach me aditi.ch06@gmail.com
 - 😄 Pronouns: Her
 
