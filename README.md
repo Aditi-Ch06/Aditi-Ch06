@@ -1,8 +1,11 @@
 # Hi, I'm Aditi Chaudhary 👋
 
 🎓 B.Tech CSE Student
+
 🤖 Aspiring Machine Learning Engineer
+
 💡 Interested in AI/ML, RAG Systems, NLP, and Problem Solving
+
 📈 Solved 300+ DSA problems across coding platforms
 
 ---
@@ -26,6 +29,11 @@ LeetCode | CodeChef
 
 ## Featured Projects
 
+### Traffic Demand Prediction
+- Built predictive models to forecast traffic demand patterns
+- Performed data preprocessing, feature engineering, and model evaluation
+- Utilized machine learning techniques for demand forecasting
+
 ### RAG-Based Q&A System
 - Semantic search using embeddings
 - Context-aware question answering
@@ -33,11 +41,7 @@ LeetCode | CodeChef
 
 ### Facial Emotion Recognition
 - CNN-based emotion classification
-- Real-time prediction from images
-
-### Clarity AI
-- AI-powered decision-making assistant
-- Built using AWS PartyRock
+- Real-time emotion prediction from facial images
 
 ---
 
