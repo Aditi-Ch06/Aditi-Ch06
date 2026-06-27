@@ -51,8 +51,6 @@ LeetCode | CodeChef
 
 🏆 Solved 300+ DSA Problems
 
-🏆 Amazon ML Summer School Applicant
-
 ---
 
 ## Connect With Me
